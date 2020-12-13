@@ -1,0 +1,20 @@
+C:\Users\Nikita\OneDrive\Рабочий стол\интелектуалка\lab_1\bin\Debug\lab_1.exe.config
+C:\Users\Nikita\OneDrive\Рабочий стол\интелектуалка\lab_1\bin\Debug\lab_1.exe
+C:\Users\Nikita\OneDrive\Рабочий стол\интелектуалка\lab_1\bin\Debug\lab_1.pdb
+C:\Users\Nikita\OneDrive\Рабочий стол\интелектуалка\lab_1\obj\Debug\lab_1.csprojAssemblyReference.cache
+C:\Users\Nikita\OneDrive\Рабочий стол\интелектуалка\lab_1\obj\Debug\lab_1.Form1.resources
+C:\Users\Nikita\OneDrive\Рабочий стол\интелектуалка\lab_1\obj\Debug\lab_1.Properties.Resources.resources
+C:\Users\Nikita\OneDrive\Рабочий стол\интелектуалка\lab_1\obj\Debug\lab_1.csproj.GenerateResource.cache
+C:\Users\Nikita\OneDrive\Рабочий стол\интелектуалка\lab_1\obj\Debug\lab_1.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\OneDrive\Рабочий стол\интелектуалка\lab_1\obj\Debug\lab_1.exe
+C:\Users\Nikita\OneDrive\Рабочий стол\интелектуалка\lab_1\obj\Debug\lab_1.pdb
+C:\Users\alego\Downloads\acb4e401170144dd\lab_1\obj\Debug\lab_1.csprojAssemblyReference.cache
+C:\Users\alego\Downloads\acb4e401170144dd\lab_1\obj\Debug\lab_1.Form1.resources
+C:\Users\alego\Downloads\acb4e401170144dd\lab_1\obj\Debug\lab_1.Properties.Resources.resources
+C:\Users\alego\Downloads\acb4e401170144dd\lab_1\obj\Debug\lab_1.csproj.GenerateResource.cache
+C:\Users\alego\Downloads\acb4e401170144dd\lab_1\obj\Debug\lab_1.csproj.CoreCompileInputs.cache
+C:\Users\alego\Downloads\acb4e401170144dd\lab_1\obj\Debug\lab_1.exe
+C:\Users\alego\Downloads\acb4e401170144dd\lab_1\obj\Debug\lab_1.pdb
+C:\Users\alego\Downloads\acb4e401170144dd\lab_1\bin\Debug\lab_1.exe.config
+C:\Users\alego\Downloads\acb4e401170144dd\lab_1\bin\Debug\lab_1.exe
+C:\Users\alego\Downloads\acb4e401170144dd\lab_1\bin\Debug\lab_1.pdb
