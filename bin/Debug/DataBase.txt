@@ -4,7 +4,7 @@ Ferrari 488	26800000	2018	AT	RWD	Red	Class_S
 Alfa Romeo 4C	4100000	2016	AT	RWD	Red	Class_H
 Bentley Continental GTC	15000000	2016	AT	AWD	White	Class_H
 Mercedes AMG GT	9000000	2018	AT	RWD	Yellow	Class_H
-MINI Coupe	1000000	2011	AT	FWD	Blue	Class_G
+Mini Cooper	1000000	2011	AT	FWD	Blue	Class_G
 Mercedes-Benz C-coupe	1200000	2014	AT	RWD	White	Class_G
 Ford Mustang VI	2000000	2019	AT	RWD	Black	Class_G
 Volkswagen up	400000	2013	AT	FWD	Red	Class_A
