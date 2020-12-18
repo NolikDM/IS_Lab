@@ -1,0 +1,33 @@
+﻿Porsche 911	8200000	2019	AT	AWD	Green	Class_S
+Nissan GT-R	7700000	2020	AT	AWD	Orange	Class_S
+Ferrari 488	26800000	2018	AT	RWD	Red	Class_S
+Alfa Romeo 4C	4100000	2016	AT	RWD	Red	Class_H
+Bentley Continental GTC	15000000	2016	AT	AWD	White	Class_H
+Mercedes AMG GT	9000000	2018	AT	RWD	Yellow	Class_H
+MINI Coupe	1000000	2011	AT	FWD	Blue	Class_G
+Mercedes-Benz C-coupe	1200000	2014	AT	RWD	White	Class_G
+Ford Mustang VI	2000000	2019	AT	RWD	Black	Class_G
+Volkswagen up	400000	2013	AT	FWD	Red	Class_A
+Fiat 500	1000000	2017	AT	FWD	White	Class_A
+Kia Picanto	550000	2014	MT	FWD	Yellow	Class_A
+Hyundai Solaris II	850000	2017	AT	FWD	Blue	Class_B
+Lada Веста	640000	2018	MT	FWD	Grey	Class_B
+Volkswagen Polo	625000	2016	AT	FWD	White	Class_B
+Kia Ceed	1300000	2018	AT	FWD	Grey	Class_C
+Ford Focus	710000	2015	MT	FWD	Black	Class_C
+Mazda 3	640000	2012	MT	FWD	Red	Class_C
+Ford Mondeo	925000	2015	MT	FWD	White	Class_D
+Honda Accord	2350000	2018	AT	FWD	Grey	Class_D
+Toyota Camry	2695000	2020	AT	FWD	Black	Class_D
+Jaguar XF	1250000	2013	AT	RWD	Black	Class_E
+Mercedes-Benz E-class	3990000	2019	AT	AWD	Grey	Class_E
+Lexus ES	2199000	2018	AT	FWD	White	Class_E
+Rolls-Royce Phantom	10800000	2006	AT	RWD	White	Class_F
+Maybach 62	6499999	2008	AT	RWD	Black	Class_F
+Hyundai Equus	1351000	2013	AT	RWD	Grey	Class_F
+Toyota Land Cruiser 200 Series	5350000	2018	AT	AWD	Black	Class_J
+Honda CR–V	1900000	2017	AT	AWD	Grey	Class_J
+Toyota RAV4	2214816	2018	AT	AWD	White	Class_J
+Citroen SpaceTourer	2119300	2020	AT	FWD	Black	Class_M
+Ford C-max	305000	2006	MT	FWD	Grey	Class_M
+Kia Carens	509000	2009	AT	FWD	White	Class_M
